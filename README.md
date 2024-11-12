@@ -1,7 +1,5 @@
 # magento-distable-swatch-3
 
-ChatGPT said:
-ChatGPT
 In Magento 2, the type of an image (e.g., thumbnail, small_image, swatch_image, etc.) is set as an attribute on the product's media gallery entry. This attribute allows Magento to determine how each image is used in various contexts on the storefront and admin. When you're uploading an image in a custom module and want to specify or change its type, you can do so by setting the correct attributes on the media gallery entry.
 
 Here's how you can address this issue:
